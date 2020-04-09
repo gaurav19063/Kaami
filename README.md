@@ -1,2 +1,2 @@
-## We are India's #1 peer to peer employment for diverse skills. We help people to find their diverse skills & inclusion goals by connecting peers with our fast-growing community of diverse skills through our suite of technology tools. Our diverse skilled community includes Women, LGBTQ, persons with disabilities and Veterans. We are an actively working team of IITians and IIITians.
-## We believe in open source community so we are putting all our work as open source
+#### We are India's #1 peer to peer employment for diverse skills. We help people to find their diverse skills & inclusion goals by connecting peers with our fast-growing community of diverse skills through our suite of technology tools. Our diverse skilled community includes Women, LGBTQ, persons with disabilities and Veterans. We are an actively working team of IITians and IIITians.
+#### We believe in open source community so we are putting all our work as open source
